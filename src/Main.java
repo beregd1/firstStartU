@@ -3,6 +3,7 @@ public class Main {
         String hello = "hello";
         String name = "My name is Dima";
         int age = 28;
+        String gender = "man";
 
         for (int i = 0; i < age; i++) {
             System.out.println(hello);
