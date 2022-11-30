@@ -7,6 +7,7 @@ public class Main {
         for (int i = 0; i < age; i++) {
             System.out.println(hello);
             System.out.println(name);
+            System.out.println(age);
         }
     }
 }
